@@ -8,29 +8,29 @@ The analysis includes data cleaning, visualization, and extracting insights that
 The dataset contains 50,000 records and 14 columns related to Amazon sales transactions.
 
 **Key Columns:**
-Order ID – Unique identifier for each order
-Order Date – Date when the order was placed
-Product ID – Unique product identifier
-Product Category – Category of the product
-Price – Original product price
-Discount Percent – Discount offered on the product
-Quantity Sold – Number of units sold
-Customer Region – Customer location
-Payment Method – Payment type used for purchase
-Rating – Customer rating for the product
-Review Count – Number of reviews
-Discounted Price – Price after discount
-Total Revenue – Revenue generated from the order
-Profit – Profit from the order
+1. Order ID – Unique identifier for each order
+2. Order Date – Date when the order was placed
+3. Product ID – Unique product identifier
+4. Product Category – Category of the product
+5. Price – Original product price
+6. Discount Percent – Discount offered on the product
+7. Quantity Sold – Number of units sold
+8. Customer Region – Customer location
+9. Payment Method – Payment type used for purchase
+10. Rating – Customer rating for the product
+11. Review Count – Number of reviews
+12. Discounted Price – Price after discount
+13. Total Revenue – Revenue generated from the order
+14. Profit – Profit from the order
 
 **Tools and Technologies:**
 The following tools were used in this project:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Jupyter Notebook
 
 **Data Analysis Process:**
 1. Data Cleaning:
@@ -59,17 +59,17 @@ Monthly Profit Trend (Line Chart)
 
 **Key Insights:**
 Some insights discovered during analysis:
-Certain product categories generate significantly higher sales.
-Some regions contribute more to total revenue.
-Higher discounts may influence product sales.
-Products with higher ratings tend to generate better revenue.
+1. Certain product categories generate significantly higher sales.
+2. Some regions contribute more to total revenue.
+3. Higher discounts may influence product sales.
+4. Products with higher ratings tend to generate better revenue.
 
 **Business Recommendations:**
 Based on the analysis:
-Focus marketing on high-performing regions.
-Increase stock for high-demand product categories.
-Optimize discount strategies to improve revenue.
-Improve products with lower ratings to increase customer satisfaction.
+1. Focus marketing on high-performing regions.
+2. Increase stock for high-demand product categories.
+3. Optimize discount strategies to improve revenue.
+4. Improve products with lower ratings to increase customer satisfaction.
 
 **Project Structure:**
 amazon-sales-analysis
