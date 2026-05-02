@@ -1,4 +1,4 @@
-#Amazon Sales Data Analysis
+# Amazon Sales Data Analysis
 
 **Overview:**
 This project performs Exploratory Data Analysis (EDA) on an Amazon sales dataset using Python. The goal is to analyze sales trends, customer behavior, and product performance to generate meaningful business insights.
